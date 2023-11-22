@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="netlify.com"
+            href="https://delightful-empanada-d2f001.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
